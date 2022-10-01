@@ -1,3 +1,5 @@
+* resources: https://github.com/xu-cheng/latex-action/issues/99 and https://github.com/orgs/community/discussions/26073.
+
 # texlive-action
 
 [![GitHub Actions Status](https://github.com/xu-cheng/texlive-action/workflows/Test%20Github%20Action/badge.svg)](https://github.com/xu-cheng/texlive-action/actions)
